@@ -7,3 +7,7 @@ At least i get tuples.
 Day 2:
 Dictionaries.
 keys(), values(), items().
+
+Day 3:
+input()
+And some exercises with input(), list, tuple, dict.
