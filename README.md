@@ -25,4 +25,34 @@ some VERY BASIC exercises.
 veryBasicCalculator and veryBasicUserController.
 
 • Day 7:
-Exercises.
+Exercise - Calculate body index.
+
+• Day 8:
+Exercise - For and While loops.
+
+• Day 9:
+Shape Exercise with range() Function.
+
+• Day 10:
+break and Continue expressions.
+
+• Day 11 - 12:
+list Comprehension - fukin' like it.
+
+• Day 13:
+Exercise - Slightly advanced user register & controller system 
+
+• Day 14:
+Factorial calculator
+
+• Day 15:
+Fibonacci Sequence
+
+• Day 16 - 17:
+Exercises!
+Perfect Number Questioning
+Armstrong Number Questioning
+The multiplication table
+A Simple exercise for While Loop
+Modulus 3 - Until 100
+Even Number with list Comprehension
