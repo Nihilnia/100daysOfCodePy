@@ -83,3 +83,7 @@
     Modulus 3 - Until 100
     
     Even Number with list Comprehension
+    
+- **Day 18**:
+
+    Enter the functions.
