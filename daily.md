@@ -87,3 +87,10 @@
 - **Day 18**:
 
     Enter the functions.
+
+- **Day 19 - 20**:
+
+    return Expression in Functions.
+    parameters in Functions.
+    global and Local variables.
+    lambda expressions.
